@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFriendApp2</string>
+    <string name="tambah_teman">Tambah Teman</string>
+    <string name="alamat">Alamat</string>
+    <string name="simpan">Simpan</string>
+    <string name="nama">nama</string>
+    <string name="email">email</string>
+    <string name="telp">Telp</string>
+
+</resources>
